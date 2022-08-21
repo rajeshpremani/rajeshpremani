@@ -22,6 +22,7 @@
 
 <br/>
 
+📚 Github Stats
 
 <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=rajeshpremani&show_icons=true&theme=radical" />
 <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshpremani&layout=compact" />
