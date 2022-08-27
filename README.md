@@ -28,7 +28,6 @@
 📚 My Frameworks
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rajeshpremani&repo=SignatureUIView)](https://github.com/rajeshpremani/SignatureUIView)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rajeshpremani&repo=SwipeButton)](https://github.com/rajeshpremani/SwipeButton)
 
 <br/>
 
